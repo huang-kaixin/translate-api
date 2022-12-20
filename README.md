@@ -50,6 +50,7 @@ pip install requests
 示例代码：[translator.py](translator.py)
 
 运行结果如下：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/cabb07dbab204439af5cc54df04b2387.png#pic_center)
 
 欢迎star :star:, 感谢支持！
